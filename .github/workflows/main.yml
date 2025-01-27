@@ -4,9 +4,13 @@ on:
   schedule:
     - cron: "0 4 * * *" # 每天 UTC 时间 4 点运行（北京时间中午 12 点）
   workflow_dispatch: # 手动触发
+  # push:
+  #   paths:
+  #     - code.py # 代码文件变更时触发
+  # run on every push on the master branch
   push:
-    paths:
-      - code.py # 代码文件变更时触发
+    branches:
+      - master
 
 jobs:
   run-script:

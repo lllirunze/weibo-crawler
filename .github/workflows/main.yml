@@ -10,8 +10,7 @@ on:
   # run on every push on the master branch
   push:
     branches:
-      - gh-pages
-      # - master
+      - master
 
 jobs:
   run-script:

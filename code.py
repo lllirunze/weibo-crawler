@@ -51,7 +51,7 @@ def save_to_markdown(data):
     day = today.strftime("%d")
 
     # 创建文件夹结构
-    folder_path = os.path.join(year, month)
+    folder_path = os.path.join("archive", year, month)
     os.makedirs(folder_path, exist_ok=True)
 
     # 文件路径

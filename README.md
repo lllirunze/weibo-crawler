@@ -1,55 +1,54 @@
-# 2026年07月18日-微博热搜
+# 2026年07月19日-微博热搜
 
-1. [习近平对重庆彭水山体崩塌作重要指示](https://s.weibo.com/weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%B9%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%E4%BD%9C%E9%87%8D%E8%A6%81%E6%8C%87%E7%A4%BA%23&Refer=new_time) - [热]
-2. [清华录取通知书极简但有排面](https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E6%9E%81%E7%AE%80%E4%BD%86%E6%9C%89%E6%8E%92%E9%9D%A2%23&t=31&band_rank=1&Refer=top) - [热]
-3. [王楚钦孙颖莎有被吓到](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E%E6%9C%89%E8%A2%AB%E5%90%93%E5%88%B0&t=31&band_rank=2&Refer=top)
-4. [水利部解读防汛关键期热点问题](https://s.weibo.com/weibo?q=%23%E6%B0%B4%E5%88%A9%E9%83%A8%E8%A7%A3%E8%AF%BB%E9%98%B2%E6%B1%9B%E5%85%B3%E9%94%AE%E6%9C%9F%E7%83%AD%E7%82%B9%E9%97%AE%E9%A2%98%23&t=31&band_rank=3&Refer=top)
-5. [超话同人绘画大赛](https://s.weibo.comjavascript:void(0);) - [荐]
-6. [新冠又来了](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%86%A0%E5%8F%88%E6%9D%A5%E4%BA%86%23&t=31&band_rank=4&Refer=top) - [新]
-7. [王俊凯喝醉在厕所睡了两个半小时](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%96%9D%E9%86%89%E5%9C%A8%E5%8E%95%E6%89%80%E7%9D%A1%E4%BA%86%E4%B8%A4%E4%B8%AA%E5%8D%8A%E5%B0%8F%E6%97%B6%23&t=31&band_rank=5&Refer=top) - [新]
-8. [嫌机票贵买二手车亏一万多](https://s.weibo.com/weibo?q=%E5%AB%8C%E6%9C%BA%E7%A5%A8%E8%B4%B5%E4%B9%B0%E4%BA%8C%E6%89%8B%E8%BD%A6%E4%BA%8F%E4%B8%80%E4%B8%87%E5%A4%9A&t=31&band_rank=6&Refer=top) - [新]
-9. [一起潮张裕宠粉节](https://s.weibo.comjavascript:void(0);) - [火热]
-10. [重庆山体崩塌](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%23&t=31&band_rank=7&Refer=top) - [新]
-11. [豆包清理C盘还是太权威了](https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E6%B8%85%E7%90%86C%E7%9B%98%E8%BF%98%E6%98%AF%E5%A4%AA%E6%9D%83%E5%A8%81%E4%BA%86%23&t=31&band_rank=8&Refer=top)
-12. [邹市明冉莹颖已还清3家银行欠款](https://s.weibo.com/weibo?q=%23%E9%82%B9%E5%B8%82%E6%98%8E%E5%86%89%E8%8E%B9%E9%A2%96%E5%B7%B2%E8%BF%98%E6%B8%853%E5%AE%B6%E9%93%B6%E8%A1%8C%E6%AC%A0%E6%AC%BE%23&t=31&band_rank=9&Refer=top) - [热]
-13. [时代少年团加冠礼演唱会](https://s.weibo.com/weibo?q=%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E5%8A%A0%E5%86%A0%E7%A4%BC%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=10&Refer=top) - [新]
-14. [官俊臣 重庆大学](https://s.weibo.com/weibo?q=%E5%AE%98%E4%BF%8A%E8%87%A3%20%E9%87%8D%E5%BA%86%E5%A4%A7%E5%AD%A6&t=31&band_rank=11&Refer=top) - [新]
-15. [杨瀚森首次谈及女友](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%80%9A%E6%A3%AE%E9%A6%96%E6%AC%A1%E8%B0%88%E5%8F%8A%E5%A5%B3%E5%8F%8B&t=31&band_rank=12&Refer=top) - [新]
-16. [孙怡瘦到连皮靴都直往下掉](https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%80%A1%E7%98%A6%E5%88%B0%E8%BF%9E%E7%9A%AE%E9%9D%B4%E9%83%BD%E7%9B%B4%E5%BE%80%E4%B8%8B%E6%8E%89%23&t=31&band_rank=13&Refer=top) - [热]
-17. [陈伟霆何穗带儿子出游](https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%E4%BD%95%E7%A9%97%E5%B8%A6%E5%84%BF%E5%AD%90%E5%87%BA%E6%B8%B8%23&t=31&band_rank=14&Refer=top) - [新]
-18. [FIFA主席说可以中美合办世界杯](https://s.weibo.com/weibo?q=%23FIFA%E4%B8%BB%E5%B8%AD%E8%AF%B4%E5%8F%AF%E4%BB%A5%E4%B8%AD%E7%BE%8E%E5%90%88%E5%8A%9E%E4%B8%96%E7%95%8C%E6%9D%AF%23&t=31&band_rank=15&Refer=top)
-19. [张凌赫14个代言包场](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB14%E4%B8%AA%E4%BB%A3%E8%A8%80%E5%8C%85%E5%9C%BA%23&t=31&band_rank=16&Refer=top) - [新]
-20. [杜华儿子崇拜李飞想去时代峰峻](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%8D%8E%E5%84%BF%E5%AD%90%E5%B4%87%E6%8B%9C%E6%9D%8E%E9%A3%9E%E6%83%B3%E5%8E%BB%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%23&t=31&band_rank=17&Refer=top) - [新]
-21. [95后夫妻手搓500集AI漫剧爆火](https://s.weibo.com/weibo?q=95%E5%90%8E%E5%A4%AB%E5%A6%BB%E6%89%8B%E6%90%93500%E9%9B%86AI%E6%BC%AB%E5%89%A7%E7%88%86%E7%81%AB&t=31&band_rank=18&Refer=top)
-22. [KimiK3](https://s.weibo.com/weibo?q=KimiK3&t=31&band_rank=19&Refer=top) - [新]
-23. [韩国35万散户被强制平仓](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD35%E4%B8%87%E6%95%A3%E6%88%B7%E8%A2%AB%E5%BC%BA%E5%88%B6%E5%B9%B3%E4%BB%93%23&t=31&band_rank=20&Refer=top) - [新]
-24. [婴儿的器官形成与发育科普视频](https://s.weibo.com/weibo?q=%E5%A9%B4%E5%84%BF%E7%9A%84%E5%99%A8%E5%AE%98%E5%BD%A2%E6%88%90%E4%B8%8E%E5%8F%91%E8%82%B2%E7%A7%91%E6%99%AE%E8%A7%86%E9%A2%91&t=31&band_rank=21&Refer=top) - [新]
-25. [陈冠希现在长得比姜思达还像大冰](https://s.weibo.com/weibo?q=%E9%99%88%E5%86%A0%E5%B8%8C%E7%8E%B0%E5%9C%A8%E9%95%BF%E5%BE%97%E6%AF%94%E5%A7%9C%E6%80%9D%E8%BE%BE%E8%BF%98%E5%83%8F%E5%A4%A7%E5%86%B0&t=31&band_rank=22&Refer=top) - [新]
-26. [童锦程承认抛妻弃子](https://s.weibo.com/weibo?q=%23%E7%AB%A5%E9%94%A6%E7%A8%8B%E6%89%BF%E8%AE%A4%E6%8A%9B%E5%A6%BB%E5%BC%83%E5%AD%90%23&t=31&band_rank=23&Refer=top) - [新]
-27. [低精力人群为何总是看起来很疲惫](https://s.weibo.com/weibo?q=%E4%BD%8E%E7%B2%BE%E5%8A%9B%E4%BA%BA%E7%BE%A4%E4%B8%BA%E4%BD%95%E6%80%BB%E6%98%AF%E7%9C%8B%E8%B5%B7%E6%9D%A5%E5%BE%88%E7%96%B2%E6%83%AB&t=31&band_rank=24&Refer=top)
-28. [6种高发癌症的早期信号](https://s.weibo.com/weibo?q=%236%E7%A7%8D%E9%AB%98%E5%8F%91%E7%99%8C%E7%97%87%E7%9A%84%E6%97%A9%E6%9C%9F%E4%BF%A1%E5%8F%B7%23&t=31&band_rank=25&Refer=top)
-29. [苏醒为刘惜君发声](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E4%B8%BA%E5%88%98%E6%83%9C%E5%90%9B%E5%8F%91%E5%A3%B0%23&t=31&band_rank=26&Refer=top) - [新]
-30. [中国足协突然官宣](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%B6%B3%E5%8D%8F%E7%AA%81%E7%84%B6%E5%AE%98%E5%AE%A3%23&t=31&band_rank=27&Refer=top) - [新]
-31. [小黄豆复胖](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%BB%84%E8%B1%86%E5%A4%8D%E8%83%96%23&t=31&band_rank=28&Refer=top)
-32. [八仙](https://s.weibo.com/weibo?q=%E5%85%AB%E4%BB%99&t=31&band_rank=29&Refer=top)
-33. [特朗普称应再次选择美国办世界杯](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%BA%94%E5%86%8D%E6%AC%A1%E9%80%89%E6%8B%A9%E7%BE%8E%E5%9B%BD%E5%8A%9E%E4%B8%96%E7%95%8C%E6%9D%AF%23&t=31&band_rank=30&Refer=top)
-34. [杜华劝邹市明去看病](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%8D%8E%E5%8A%9D%E9%82%B9%E5%B8%82%E6%98%8E%E5%8E%BB%E7%9C%8B%E7%97%85%23&t=31&band_rank=31&Refer=top) - [新]
-35. [单亲妈妈曝遭国企已婚男欺骗细节](https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BA%B2%E5%A6%88%E5%A6%88%E6%9B%9D%E9%81%AD%E5%9B%BD%E4%BC%81%E5%B7%B2%E5%A9%9A%E7%94%B7%E6%AC%BA%E9%AA%97%E7%BB%86%E8%8A%82%23&t=31&band_rank=32&Refer=top) - [新]
-36. [世界杯决赛中场休息17分钟](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%E4%B8%AD%E5%9C%BA%E4%BC%91%E6%81%AF17%E5%88%86%E9%92%9F%23&t=31&band_rank=33&Refer=top)
-37. [哈尔滨一榴莲摊晚10点排队像菜市场](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E4%B8%80%E6%A6%B4%E8%8E%B2%E6%91%8A%E6%99%9A10%E7%82%B9%E6%8E%92%E9%98%9F%E5%83%8F%E8%8F%9C%E5%B8%82%E5%9C%BA%23&t=31&band_rank=34&Refer=top)
-38. [曲婉婷](https://s.weibo.com/weibo?q=%E6%9B%B2%E5%A9%89%E5%A9%B7&t=31&band_rank=35&Refer=top) - [新]
-39. [Bin满血金身失误](https://s.weibo.com/weibo?q=%23Bin%E6%BB%A1%E8%A1%80%E9%87%91%E8%BA%AB%E5%A4%B1%E8%AF%AF%23&t=31&band_rank=36&Refer=top)
-40. [玉骨遥 雪寒薇](https://s.weibo.com/weibo?q=%E7%8E%89%E9%AA%A8%E9%81%A5%20%E9%9B%AA%E5%AF%92%E8%96%87&t=31&band_rank=37&Refer=top)
-41. [童锦程回应被指抛妻弃子](https://s.weibo.com/weibo?q=%23%E7%AB%A5%E9%94%A6%E7%A8%8B%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%8C%87%E6%8A%9B%E5%A6%BB%E5%BC%83%E5%AD%90%23&t=31&band_rank=38&Refer=top) - [新]
-42. [申思祁宏终身禁业](https://s.weibo.com/weibo?q=%23%E7%94%B3%E6%80%9D%E7%A5%81%E5%AE%8F%E7%BB%88%E8%BA%AB%E7%A6%81%E4%B8%9A%23&t=31&band_rank=39&Refer=top) - [新]
-43. [不小心把朋友拍成了穿山甲](https://s.weibo.com/weibo?q=%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8A%8A%E6%9C%8B%E5%8F%8B%E6%8B%8D%E6%88%90%E4%BA%86%E7%A9%BF%E5%B1%B1%E7%94%B2&t=31&band_rank=40&Refer=top)
-44. [卖卫生巾的被蒂芙尼告了](https://s.weibo.com/weibo?q=%23%E5%8D%96%E5%8D%AB%E7%94%9F%E5%B7%BE%E7%9A%84%E8%A2%AB%E8%92%82%E8%8A%99%E5%B0%BC%E5%91%8A%E4%BA%86%23&t=31&band_rank=41&Refer=top) - [新]
-45. [八仙豆瓣8.3](https://s.weibo.com/weibo?q=%23%E5%85%AB%E4%BB%99%E8%B1%86%E7%93%A38.3%23&t=31&band_rank=42&Refer=top) - [新]
-46. [迪丽热巴晒素颜怼脸自拍](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%99%92%E7%B4%A0%E9%A2%9C%E6%80%BC%E8%84%B8%E8%87%AA%E6%8B%8D%23&t=31&band_rank=43&Refer=top) - [新]
-47. [国企已婚男回应致人5年2次流产](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BC%81%E5%B7%B2%E5%A9%9A%E7%94%B7%E5%9B%9E%E5%BA%94%E8%87%B4%E4%BA%BA5%E5%B9%B42%E6%AC%A1%E6%B5%81%E4%BA%A7%23&t=31&band_rank=44&Refer=top)
-48. [王楚钦让媒体问点专业问题](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%AE%A9%E5%AA%92%E4%BD%93%E9%97%AE%E7%82%B9%E4%B8%93%E4%B8%9A%E9%97%AE%E9%A2%98&t=31&band_rank=45&Refer=top) - [新]
-49. [马筱梅5个月儿子会说话了](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E7%AD%B1%E6%A2%855%E4%B8%AA%E6%9C%88%E5%84%BF%E5%AD%90%E4%BC%9A%E8%AF%B4%E8%AF%9D%E4%BA%86%23&t=31&band_rank=46&Refer=top) - [新]
-50. [成毅摸了一下苹果水果摊就被搬空了](https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E6%91%B8%E4%BA%86%E4%B8%80%E4%B8%8B%E8%8B%B9%E6%9E%9C%E6%B0%B4%E6%9E%9C%E6%91%8A%E5%B0%B1%E8%A2%AB%E6%90%AC%E7%A9%BA%E4%BA%86%23&t=31&band_rank=47&Refer=top)
-51. [郁可唯的松弛感是奕派M8给的](https://s.weibo.com/weibo?q=%23%E9%83%81%E5%8F%AF%E5%94%AF%E7%9A%84%E6%9D%BE%E5%BC%9B%E6%84%9F%E6%98%AF%E5%A5%95%E6%B4%BEM8%E7%BB%99%E7%9A%84%23&t=31&band_rank=48&Refer=top)
-52. [KimiK3测评](https://s.weibo.com/weibo?q=KimiK3%E6%B5%8B%E8%AF%84&t=31&band_rank=49&Refer=top)
-53. [美芯片股跌入熊市](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%8A%AF%E7%89%87%E8%82%A1%E8%B7%8C%E5%85%A5%E7%86%8A%E5%B8%82%23&t=31&band_rank=50&Refer=top)
+1. [让人工智能造福人类](https://s.weibo.com/weibo?q=%23%E8%AE%A9%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%80%A0%E7%A6%8F%E4%BA%BA%E7%B1%BB%23&Refer=new_time) - [热]
+2. [这一秒过火 短剧感](https://s.weibo.com/weibo?q=%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB%20%E7%9F%AD%E5%89%A7%E6%84%9F&t=31&band_rank=1&Refer=top) - [新]
+3. [马龙许昕vs林高远袁烜松](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E8%AE%B8%E6%98%95vs%E6%9E%97%E9%AB%98%E8%BF%9C%E8%A2%81%E7%83%9C%E6%9D%BE%23&t=31&band_rank=2&Refer=top) - [新]
+4. [中国推动全球AI治理迈入合作新阶段](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%8E%A8%E5%8A%A8%E5%85%A8%E7%90%83AI%E6%B2%BB%E7%90%86%E8%BF%88%E5%85%A5%E5%90%88%E4%BD%9C%E6%96%B0%E9%98%B6%E6%AE%B5%23&t=31&band_rank=3&Refer=top)
+5. [无论谁夺冠蒙牛都举杯](https://s.weibo.comjavascript:void(0);) - [火热]
+6. [那个从来都不喝水的朋友](https://s.weibo.com/weibo?q=%E9%82%A3%E4%B8%AA%E4%BB%8E%E6%9D%A5%E9%83%BD%E4%B8%8D%E5%96%9D%E6%B0%B4%E7%9A%84%E6%9C%8B%E5%8F%8B&t=31&band_rank=4&Refer=top) - [新]
+7. [这一秒过火 易军](https://s.weibo.com/weibo?q=%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB%20%E6%98%93%E5%86%9B&t=31&band_rank=5&Refer=top) - [新]
+8. [山西人午睡像进入平行时空](https://s.weibo.com/weibo?q=%E5%B1%B1%E8%A5%BF%E4%BA%BA%E5%8D%88%E7%9D%A1%E5%83%8F%E8%BF%9B%E5%85%A5%E5%B9%B3%E8%A1%8C%E6%97%B6%E7%A9%BA&t=31&band_rank=6&Refer=top)
+9. [这一秒过火 AI片头](https://s.weibo.com/weibo?q=%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB%20AI%E7%89%87%E5%A4%B4&t=31&band_rank=7&Refer=top) - [热]
+10. [当我坐飞机忘记关导航时](https://s.weibo.com/weibo?q=%E5%BD%93%E6%88%91%E5%9D%90%E9%A3%9E%E6%9C%BA%E5%BF%98%E8%AE%B0%E5%85%B3%E5%AF%BC%E8%88%AA%E6%97%B6&t=31&band_rank=8&Refer=top)
+11. [姆巴佩决赛预测](https://s.weibo.com/weibo?q=%23%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%86%B3%E8%B5%9B%E9%A2%84%E6%B5%8B%23&t=31&band_rank=9&Refer=top)
+12. [伊朗直接掀了桌子](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%9B%B4%E6%8E%A5%E6%8E%80%E4%BA%86%E6%A1%8C%E5%AD%90%23&t=31&band_rank=10&Refer=top)
+13. [TF五代去看了王俊凯演唱会](https://s.weibo.com/weibo?q=%23TF%E4%BA%94%E4%BB%A3%E5%8E%BB%E7%9C%8B%E4%BA%86%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=11&Refer=top) - [新]
+14. [刘宇宁此事到此为止](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E6%AD%A4%E4%BA%8B%E5%88%B0%E6%AD%A4%E4%B8%BA%E6%AD%A2%23&t=31&band_rank=12&Refer=top) - [热]
+15. [世界两大AI组织都是狠角色](https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E4%B8%A4%E5%A4%A7AI%E7%BB%84%E7%BB%87%E9%83%BD%E6%98%AF%E7%8B%A0%E8%A7%92%E8%89%B2&t=31&band_rank=13&Refer=top) - [新]
+16. [Angelababy素颜转场视频](https://s.weibo.com/weibo?q=%23Angelababy%E7%B4%A0%E9%A2%9C%E8%BD%AC%E5%9C%BA%E8%A7%86%E9%A2%91%23&t=31&band_rank=14&Refer=top) - [新]
+17. [这一秒过火走势](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB%E8%B5%B0%E5%8A%BF%23&t=31&band_rank=15&Refer=top) - [新]
+18. [暑假接来玩14岁儿子纹成大花腿](https://s.weibo.com/weibo?q=%23%E6%9A%91%E5%81%87%E6%8E%A5%E6%9D%A5%E7%8E%A914%E5%B2%81%E5%84%BF%E5%AD%90%E7%BA%B9%E6%88%90%E5%A4%A7%E8%8A%B1%E8%85%BF%23&t=31&band_rank=16&Refer=top)
+19. [刘宇宁让粉丝删掉不好听的评论](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E8%AE%A9%E7%B2%89%E4%B8%9D%E5%88%A0%E6%8E%89%E4%B8%8D%E5%A5%BD%E5%90%AC%E7%9A%84%E8%AF%84%E8%AE%BA%23&t=31&band_rank=17&Refer=top)
+20. [AI行业要重新洗牌了](https://s.weibo.com/weibo?q=%23AI%E8%A1%8C%E4%B8%9A%E8%A6%81%E9%87%8D%E6%96%B0%E6%B4%97%E7%89%8C%E4%BA%86%23&t=31&band_rank=18&Refer=top)
+21. [她活了 我疯了](https://s.weibo.com/weibo?q=%E5%A5%B9%E6%B4%BB%E4%BA%86%20%E6%88%91%E7%96%AF%E4%BA%86&t=31&band_rank=19&Refer=top) - [新]
+22. [龙蟒](https://s.weibo.com/weibo?q=%E9%BE%99%E8%9F%92&t=31&band_rank=20&Refer=top) - [新]
+23. [儿媳晒公公带孙女走红](https://s.weibo.com/weibo?q=%E5%84%BF%E5%AA%B3%E6%99%92%E5%85%AC%E5%85%AC%E5%B8%A6%E5%AD%99%E5%A5%B3%E8%B5%B0%E7%BA%A2&t=31&band_rank=21&Refer=top) - [新]
+24. [周柯宇问丁程鑫团里最小的是谁](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9F%AF%E5%AE%87%E9%97%AE%E4%B8%81%E7%A8%8B%E9%91%AB%E5%9B%A2%E9%87%8C%E6%9C%80%E5%B0%8F%E7%9A%84%E6%98%AF%E8%B0%81%23&t=31&band_rank=22&Refer=top) - [新]
+25. [王俊凯前助理去了王俊凯演唱会](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%89%8D%E5%8A%A9%E7%90%86%E5%8E%BB%E4%BA%86%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=23&Refer=top)
+26. [马龙许昕3比0林高远袁烜松](https://s.weibo.com/weibo?q=%E9%A9%AC%E9%BE%99%E8%AE%B8%E6%98%953%E6%AF%940%E6%9E%97%E9%AB%98%E8%BF%9C%E8%A2%81%E7%83%9C%E6%9D%BE&t=31&band_rank=24&Refer=top) - [新]
+27. [张凌赫王楚然招商](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%8E%8B%E6%A5%9A%E7%84%B6%E6%8B%9B%E5%95%86%23&t=31&band_rank=25&Refer=top)
+28. [功夫女足](https://s.weibo.com/weibo?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3&t=31&band_rank=26&Refer=top) - [新]
+29. [姆巴佩历史第一](https://s.weibo.com/weibo?q=%23%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%8E%86%E5%8F%B2%E7%AC%AC%E4%B8%80%23&t=31&band_rank=27&Refer=top)
+30. [为何穿凉鞋的人越来越少了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BD%95%E7%A9%BF%E5%87%89%E9%9E%8B%E7%9A%84%E4%BA%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%B0%91%E4%BA%86%23&t=31&band_rank=28&Refer=top)
+31. [Kimi K3把美股半导体干崩了](https://s.weibo.com/weibo?q=Kimi%20K3%E6%8A%8A%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B9%B2%E5%B4%A9%E4%BA%86&t=31&band_rank=29&Refer=top)
+32. [阿根廷西班牙冠军预测](https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%A5%BF%E7%8F%AD%E7%89%99%E5%86%A0%E5%86%9B%E9%A2%84%E6%B5%8B%23&t=31&band_rank=30&Refer=top) - [新]
+33. [宜家集中出售8座卖场](https://s.weibo.com/weibo?q=%23%E5%AE%9C%E5%AE%B6%E9%9B%86%E4%B8%AD%E5%87%BA%E5%94%AE8%E5%BA%A7%E5%8D%96%E5%9C%BA%23&t=31&band_rank=31&Refer=top) - [新]
+34. [建议大家对钱得有概念](https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E5%AF%B9%E9%92%B1%E5%BE%97%E6%9C%89%E6%A6%82%E5%BF%B5&t=31&band_rank=32&Refer=top) - [新]
+35. [曾沛慈老公](https://s.weibo.com/weibo?q=%E6%9B%BE%E6%B2%9B%E6%85%88%E8%80%81%E5%85%AC&t=31&band_rank=33&Refer=top)
+36. [别的狗都在跑第四只竟然在飞](https://s.weibo.com/weibo?q=%E5%88%AB%E7%9A%84%E7%8B%97%E9%83%BD%E5%9C%A8%E8%B7%91%E7%AC%AC%E5%9B%9B%E5%8F%AA%E7%AB%9F%E7%84%B6%E5%9C%A8%E9%A3%9E&t=31&band_rank=34&Refer=top)
+37. [马斯克的钱输到手机里可以拨通](https://s.weibo.com/weibo?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E9%92%B1%E8%BE%93%E5%88%B0%E6%89%8B%E6%9C%BA%E9%87%8C%E5%8F%AF%E4%BB%A5%E6%8B%A8%E9%80%9A&t=31&band_rank=35&Refer=top) - [新]
+38. [爸妈打闹6个月宝宝将妈妈护在身后](https://s.weibo.com/weibo?q=%23%E7%88%B8%E5%A6%88%E6%89%93%E9%97%B96%E4%B8%AA%E6%9C%88%E5%AE%9D%E5%AE%9D%E5%B0%86%E5%A6%88%E5%A6%88%E6%8A%A4%E5%9C%A8%E8%BA%AB%E5%90%8E%23&t=31&band_rank=36&Refer=top)
+39. [法国4比6英格兰](https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD4%E6%AF%946%E8%8B%B1%E6%A0%BC%E5%85%B0%23&t=31&band_rank=37&Refer=top)
+40. [曾沛慈回应老公当monitor](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E6%B2%9B%E6%85%88%E5%9B%9E%E5%BA%94%E8%80%81%E5%85%AC%E5%BD%93monitor%23&t=31&band_rank=38&Refer=top)
+41. [贝林厄姆 颜值](https://s.weibo.com/weibo?q=%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%20%E9%A2%9C%E5%80%BC&t=31&band_rank=39&Refer=top)
+42. [吴磊把手机插泥地里了](https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E6%8A%8A%E6%89%8B%E6%9C%BA%E6%8F%92%E6%B3%A5%E5%9C%B0%E9%87%8C%E4%BA%86%23&t=31&band_rank=40&Refer=top)
+43. [功夫女足路演](https://s.weibo.com/weibo?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E8%B7%AF%E6%BC%94&t=31&band_rank=41&Refer=top) - [新]
+44. [小伙硬扛30天不吸烟逐渐帅成明星](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E7%A1%AC%E6%89%9B30%E5%A4%A9%E4%B8%8D%E5%90%B8%E7%83%9F%E9%80%90%E6%B8%90%E5%B8%85%E6%88%90%E6%98%8E%E6%98%9F%23&t=31&band_rank=42&Refer=top)
+45. [虞书欣新剧路透妖娆妩媚](https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E6%96%B0%E5%89%A7%E8%B7%AF%E9%80%8F%E5%A6%96%E5%A8%86%E5%A6%A9%E5%AA%9A&t=31&band_rank=43&Refer=top) - [新]
+46. [旭旭宝宝说对功夫女足不感兴趣](https://s.weibo.com/weibo?q=%23%E6%97%AD%E6%97%AD%E5%AE%9D%E5%AE%9D%E8%AF%B4%E5%AF%B9%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E4%B8%8D%E6%84%9F%E5%85%B4%E8%B6%A3%23&t=31&band_rank=44&Refer=top)
+47. [乒乓球全锦赛双打半决赛](https://s.weibo.com/weibo?q=%E4%B9%92%E4%B9%93%E7%90%83%E5%85%A8%E9%94%A6%E8%B5%9B%E5%8F%8C%E6%89%93%E5%8D%8A%E5%86%B3%E8%B5%9B&t=31&band_rank=45&Refer=top) - [新]
+48. [英格兰未来队长最佳人选](https://s.weibo.com/weibo?q=%E8%8B%B1%E6%A0%BC%E5%85%B0%E6%9C%AA%E6%9D%A5%E9%98%9F%E9%95%BF%E6%9C%80%E4%BD%B3%E4%BA%BA%E9%80%89&t=31&band_rank=46&Refer=top) - [新]
+49. [长鑫科技中签结果](https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%AD%E7%AD%BE%E7%BB%93%E6%9E%9C%23&t=31&band_rank=47&Refer=top)
+50. [高通发布会机器人现场摔倒](https://s.weibo.com/weibo?q=%E9%AB%98%E9%80%9A%E5%8F%91%E5%B8%83%E4%BC%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%8E%B0%E5%9C%BA%E6%91%94%E5%80%92&t=31&band_rank=48&Refer=top)
+51. [华强北iPhone17Pro激光改卡槽](https://s.weibo.com/weibo?q=%E5%8D%8E%E5%BC%BA%E5%8C%97iPhone17Pro%E6%BF%80%E5%85%89%E6%94%B9%E5%8D%A1%E6%A7%BD&t=31&band_rank=49&Refer=top)
+52. [野狗骨头 宣发](https://s.weibo.com/weibo?q=%E9%87%8E%E7%8B%97%E9%AA%A8%E5%A4%B4%20%E5%AE%A3%E5%8F%91&t=31&band_rank=50&Refer=top) - [新]

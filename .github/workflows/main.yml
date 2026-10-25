@@ -14,7 +14,8 @@ on:
 
 jobs:
   run-script:
-    runs-on: ubuntu-latest
+    # Python 3.9 has no Ubuntu 26.04 build; keep the runner compatible.
+    runs-on: ubuntu-22.04
 
     steps:
     - name: Checkout repository
